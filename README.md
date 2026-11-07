@@ -1,3 +1,7 @@
+[🦁☀️ **خواندن این راهنما به زبان فارسی (Read in Persian)**](README-fa.md)
+
+---
+
 # ESP32-C3 Air Mouse & Media Controller
 
 A comprehensive, hardware-based Bluetooth Air Mouse and Media Controller. Built around the **ESP32-C3** RISC-V microcontroller, it utilizes a **GY-25 Gyroscope** for motion tracking, a rotary encoder for dynamic adjustments, and an analog button array for inputs.
@@ -67,3 +71,10 @@ Install the following via the Arduino IDE Library Manager:
 3. **Switch Mode:** Press the Mode switch button (GPIO 4). The ESP32 saves the state in its non-volatile memory (NVS) and restarts. The LED will blink Purple.
 4. **Media Mode:** Pair your host device to the new Bluetooth entry named **Air Media ESP**.
 5. **Ready:** You can now switch freely between Mouse and Media remote modes using the hardware button. Reconnections are fast and automatic.
+
+<br>
+
+---
+<p align="center">
+  <b>made with ❤️ by Mio so...</b>
+</p>
